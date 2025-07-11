@@ -1,5 +1,5 @@
 # Data-Science-Project
-This is my first project done during training at Ansh Infotech
+This is my first project done during training at Ansh Infotech Pvt. Ltd. In this project first I learn to visualize the data insights like music popularity from the spotify dataset which includes song features i.e. 'Energy', 'Valence', 'Danceability', 'Loudness', 'Acousticness' Using these features the popularity graph Matplot, Seaborn, Histgram chart is created to predict popularity of tracks with the healp of sklearn metrics.
 # 🎵 Spotify Song Recommender App
 
 This is a **Streamlit web app** that recommends similar songs based on a user's input using Spotify song features such as energy, danceability, tempo, valence, and popularity. It uses **cosine similarity** to find and recommend the most similar tracks.
