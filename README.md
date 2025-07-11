@@ -4,7 +4,9 @@ This is my first project done during training at Ansh Infotech Pvt. Ltd. In this
 
 This is a **Streamlit web app** that recommends similar songs based on a user's input using Spotify song features such as energy, danceability, tempo, valence, and popularity. It uses **cosine similarity** to find and recommend the most similar tracks.
 
-![App Screenshot](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png)
+![App Screenshot]<img width="1262" height="847" alt="Screenshot 2025-07-11 120557" src="https://github.com/user-attachments/assets/759936c9-c275-408c-b0c8-53252bbde4d4" />
+
+<img width="1203" height="894" alt="Screenshot 2025-07-11 120630" src="https://github.com/user-attachments/assets/f5867670-66fd-4375-ae15-7fc0072858dd" />
 
 ---
 
