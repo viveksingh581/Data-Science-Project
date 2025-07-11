@@ -10,8 +10,8 @@ This is a **Streamlit web app** that recommends similar songs based on a user's 
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://your-username-your-repo-name.streamlit.app)  
-*(Replace with your actual Streamlit Cloud URL once deployed)*
+👉 [Click here to try the app](https://data-science-project-zhbspmuu2zch4utmtzkzti.streamlit.app/)  
+
 
 ---
 
