@@ -18,3 +18,43 @@ This is a **Streamlit web app** that recommends similar songs based on a user's 
 ## 📁 Project Structure
 
 
+spotify-song-recommender/
+│
+├── app.py # Streamlit application script
+├── Spotify_data.csv # Dataset containing song features
+└── requirements.txt # Required Python packages
+
+
+---
+
+## 🔍 Features
+
+- Enter a song name to receive top N similar tracks.
+- Visual, interactive Streamlit UI.
+- Uses audio features for similarity scoring:
+  - Energy
+  - Danceability
+  - Tempo
+  - Valence
+  - Popularity
+
+---
+
+## 🧠 How It Works
+
+1. Loads a dataset of Spotify songs with their audio features.
+2. Normalizes the feature space using `StandardScaler`.
+3. Computes **cosine similarity** between the selected song and all other songs.
+4. Returns the top N most similar tracks.
+
+---
+
+## 🛠️ Tech Stack
+
+- [Python](https://www.python.org/)
+- [Streamlit](https://streamlit.io/)
+- [Pandas](https://pandas.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/)
+
+---
+
